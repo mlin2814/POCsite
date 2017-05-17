@@ -21,8 +21,10 @@
     "babel": "^6.5.2",
     "babel-core": "^6.21.0",
     "express": "^4.14.0",
+    "fs": "0.0.1-security",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
+    "soap": "^0.19.0",
     "webpack": "^1.14.0"
   },
   "devDependencies": {
